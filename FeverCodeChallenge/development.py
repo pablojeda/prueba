@@ -1,0 +1,1 @@
+from FeverCodeChallenge.settings import *

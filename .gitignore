@@ -1,0 +1,11 @@
+.idea/
+*.pyc
+*.log
+logs/
+mediafiles/
+*.png
+Lib/
+Scripts/
+share/
+db.sqlite3
+pyvenv.cfg
